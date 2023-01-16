@@ -18,9 +18,15 @@ public class Test {
             else {
                 result+=n+"\n";
             }
-            System.out.println(result);
+           // System.out.println(result);
             result = "";
         }
+
+        String sandwitch = "xxbreadjambread";
+
+        System.out.println(sandwitch.indexOf("bread"));
+
+
 
 
     }
